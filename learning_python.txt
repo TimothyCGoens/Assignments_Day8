@@ -1,0 +1,5 @@
+In Python you can create dictionaries.
+In Python you can loop.
+In python you can create classes.
+In Python I can do anything! 
+In Python I am struggling! 
